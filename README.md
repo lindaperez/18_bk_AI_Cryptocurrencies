@@ -1,7 +1,7 @@
-# _Cryptocurrency Market_
+# _ Data Science: Cryptocurrency Grouping Project _
 
 ## The situation: 
-Discovery trends to invents into a new cryptocurrency based on their fetures and values. Report that includes which cryptocurrencies are on the trading market and how they could be grouped to create a classification system for an Investment Portfolio.
+This report includes information on which cryptocurrencies are currently available on the trading market and how they can be grouped to create a classification system for an investment portfolio based on its features and values using Machine Learning, Statistics and Data Analysis techniques like Unsupervised Learning, K-means algorithm and Principal Component Analysis.
 
 ### The Data
 
@@ -36,4 +36,6 @@ The table shows the features used to generate the classification.
  The diagram shows how cryptocurrencies can be group in four groups. 
 
 <img width="826" alt="Screen Shot 2022-06-10 at 9 02 51 PM" src="https://user-images.githubusercontent.com/1729991/173171796-7c762217-ad04-421b-b5de-82a1339752b7.png">
+
+
 
