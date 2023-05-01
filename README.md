@@ -1,4 +1,4 @@
-# _ Data Science: Cryptocurrency Grouping Project _
+## _ Cryptocurrency Grouping Project _
 
 ## The situation: 
 This report includes information on which cryptocurrencies are currently available on the trading market and how they can be grouped to create a classification system for an investment portfolio based on its features and values using Machine Learning, Statistics and Data Analysis techniques like Unsupervised Learning, K-means algorithm and Principal Component Analysis.
